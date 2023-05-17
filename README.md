@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=N1-mhvUghb0&t=1s
 
 https://raw.githubusercontent.com/RodrigoMvs123/Cloud-Engineer-vs-DevOps-Engineer---Differences-and-Overlaps-of-tasks-and-responsibilities/main/README.md
 
-
+https://github.com/RodrigoMvs123/Cloud-Engineer-vs-DevOps-Engineer---Differences-and-Overlaps-of-tasks-and-responsibilities/blame/main/README.md
 
 DEVOPS Engineer            CLOUD Engineer
 
